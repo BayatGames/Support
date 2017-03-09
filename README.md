@@ -11,8 +11,4 @@ Easily [file an issue here](https://github.com/EmpireAssets/Support/issues/new),
 
 You can also share your improvements and requests with for example if you need a package or want a patch release just [file it here](https://github.com/EmpireAssets/Support/issues/new).
 
-Enjoy it.
-
-All the bests.
-
 Be creative.
