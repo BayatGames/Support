@@ -11,4 +11,20 @@ Easily [file an issue here](https://github.com/EmpireAssets/Support/issues/new),
 
 You can also share your improvements and requests with for example if you need a package or want a patch release just [file it here](https://github.com/EmpireAssets/Support/issues/new).
 
+Or Join our communities to get faster response:
+
+[Slack (chat channel)](https://empireassets.slack.com/)
+
+[Gitter (chat channel)](https://gitter.im/EmpireAssets/Lobby)
+
+[Google Group](https://groups.google.com/forum/#!forum/empireassets)
+
+[Google+](https://plus.google.com/communities/108974587311747022650)
+
+[Facebook](https://www.facebook.com/EmpireAssets-277386306024083/)
+
+[Twitter (Hasan Bayat)](https://www.twitter.com/EmpireWorld1393)
+
+Thanks.
+
 Be creative.
