@@ -13,6 +13,8 @@ You can also share your improvements and requests with for example if you need a
 
 Or Join our communities to get faster response:
 
+[Telegram](t.me/empireassets)
+
 [Slack (chat channel)](https://empireassets.slack.com/)
 
 [Gitter (chat channel)](https://gitter.im/EmpireAssets/Lobby)
