@@ -27,6 +27,13 @@ Or Join our communities to get faster response:
 
 [Twitter (Hasan Bayat)](https://www.twitter.com/EmpireWorld1393)
 
+Also you can send email to us via hasanbayat1393@gmail.com
+
+We listen to your opinions.
+
 Thanks.
 
-Be creative.
+## License
+MIT @ [Bayat](https://github.com/EmpireWorld)
+
+Made with :heart: by [Bayat](https://github.com/EmpireWorld)
