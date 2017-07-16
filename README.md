@@ -31,6 +31,12 @@ You can also share your improvements and requests with for example if you need a
 
 [Facebook Page](https://www.facebook.com/Bayat-Games-277386306024083)
 
+[Twitch.tv](https://www.twitch.tv/bayatgames)
+
+[Tumblr](https://bayatgames.tumblr.com)
+
+[Discord](https://discordapp.com/channels/307041709701988352/307041709701988352)
+
 [:e-mail: Email us (hasanbayat1393@gmail.com)](mailto:hasanbayat1393@gmail.com)
 
 ## License
