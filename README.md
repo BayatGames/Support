@@ -37,6 +37,10 @@ You can also share your improvements and requests with for example if you need a
 
 [Discord](https://discordapp.com/channels/307041709701988352/307041709701988352)
 
+[YouTube](https://www.youtube.com/channel/UCDLJbvqDKJyBKU2E8TMEQpQ)
+
+[Reddit](https://www.reddit.com/r/bayatgames)
+
 [:e-mail: Email us (hasanbayat1393@gmail.com)](mailto:hasanbayat1393@gmail.com)
 
 ## License
