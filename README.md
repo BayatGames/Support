@@ -29,6 +29,8 @@ You can also share your improvements and requests with for example if you need a
 
 [Google+ Community](https://plus.google.com/communities/108974587311747022650)
 
+[Google Chat](https://hangouts.google.com/group/6bqlVL54C7avYPUs2)
+
 [Facebook Page](https://www.facebook.com/Bayat-Games-277386306024083)
 
 [Twitch.tv](https://www.twitch.tv/bayatgames)
