@@ -43,6 +43,8 @@ You can also share your improvements and requests with for example if you need a
 
 [Reddit](https://www.reddit.com/r/bayatgames)
 
+[LinkedIn Company Page](https://www.linkedin.com/company/18202318/)
+
 [:e-mail: Email us (hasanbayat1393@gmail.com)](mailto:hasanbayat1393@gmail.com)
 
 ## License
