@@ -49,6 +49,8 @@ You can also share your improvements and requests with for example if you need a
 
 [Reddit](https://www.reddit.com/r/bayatgames)
 
+[Itch.io](https://bayat.itch.io/)
+
 [LinkedIn Company Page](https://www.linkedin.com/company/18202318/)
 
 [Pinterest](https://www.pinterest.com/BayatGames/)
