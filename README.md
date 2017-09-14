@@ -25,7 +25,7 @@ You can also share your improvements and requests with for example if you need a
 
 [Twitter (Bayat Games)](https://twitter.com/BayatGames)
 
-[Twitter (Hasan Bayat)](https://www.twitter.com/EmpireWorld1393)
+[Twitter (Hasan Bayat)](https://twitter.com/EmpireWorld1393)
 
 [Google Group](https://groups.google.com/forum/#!forum/bayatgames)
 
