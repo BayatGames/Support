@@ -33,7 +33,7 @@ You can also share your improvements and requests with for example if you need a
 
 [Google Chat](https://hangouts.google.com/group/6bqlVL54C7avYPUs2)
 
-[Facebook Page](https://www.facebook.com/Bayat-Games-277386306024083)
+[Facebook Page](https://www.facebook.com/BayatGames)
 
 [Facebook Group](https://www.facebook.com/groups/bayatgames/)
 
