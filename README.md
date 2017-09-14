@@ -23,6 +23,8 @@ You can also share your improvements and requests with for example if you need a
 
 [Gitter Channel](https://gitter.im/BayatGames)
 
+[Twitter (Bayat Games)](https://twitter.com/BayatGames)
+
 [Twitter (Hasan Bayat)](https://www.twitter.com/EmpireWorld1393)
 
 [Google Group](https://groups.google.com/forum/#!forum/bayatgames)
@@ -32,6 +34,10 @@ You can also share your improvements and requests with for example if you need a
 [Google Chat](https://hangouts.google.com/group/6bqlVL54C7avYPUs2)
 
 [Facebook Page](https://www.facebook.com/Bayat-Games-277386306024083)
+
+[Facebook Group](https://www.facebook.com/groups/bayatgames/)
+
+[Instagram](https://www.instagram.com/gamesbayat/)
 
 [Twitch.tv](https://www.twitch.tv/bayatgames)
 
@@ -44,6 +50,8 @@ You can also share your improvements and requests with for example if you need a
 [Reddit](https://www.reddit.com/r/bayatgames)
 
 [LinkedIn Company Page](https://www.linkedin.com/company/18202318/)
+
+[Pinterest](https://www.pinterest.com/BayatGames/)
 
 [:e-mail: Email us (hasanbayat1393@gmail.com)](mailto:hasanbayat1393@gmail.com)
 
