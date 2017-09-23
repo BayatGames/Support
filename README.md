@@ -26,6 +26,8 @@ You can also share your improvements and requests with for example if you need a
 
 [Join our Facebook Group](https://www.facebook.com/groups/bayatgames/)
 
+[Join our Google Hangout](https://hangouts.google.com/group/iKG3yZqOS9eZRSSo2)
+
 ## Follow our News
 
 [:notebook: Check out our development board](https://trello.com/bayatgames)
