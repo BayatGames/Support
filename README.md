@@ -18,7 +18,7 @@ You can also share your improvements and requests with for example if you need a
 
 [Join our Discord Server](https://discord.gg/HWMqD7T)
 
-[Join our Slack Team](mailto:hasanbayat1393@gmail.com)
+[Join our Slack Team](https://publicslack.com/slacks/bayatgames/invites/new)
 
 [Join our Gitter Channel](https://gitter.im/BayatGames)
 
