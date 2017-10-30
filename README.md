@@ -4,17 +4,15 @@ Hi happy visitor (or awesome customer).
 
 Welcome to [Bayat Games](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=relevance/query=publisher:26641) Customer Support.
 
-## What is here?
+Here we provide support for our products on GitHub and Asset Store, you can contact us via the email or any other way you like. We recommend email for requesting Support.
 
-Here is a place to share your issues and improvements with us.
-
-## How to Issue?
+## Submit an Issue
 
 Easily [file an issue here](https://github.com/BayatGames/Support/issues/new), but make sure the issue does not exists.
 
-You can also share your improvements and requests with for example if you need a package or want a patch release just [file it here](https://github.com/BayatGames/Support/issues/new).
-
 ## Join Us
+
+Join our communityies to get support and feedback from our Commnity.
 
 [Join our Discord Server](https://discord.gg/HWMqD7T)
 
@@ -29,6 +27,8 @@ You can also share your improvements and requests with for example if you need a
 [Join our Google Hangout](https://hangouts.google.com/group/iKG3yZqOS9eZRSSo2)
 
 ## Follow our News
+
+Follow our news and updates, We recommend email for requesting Support.
 
 [:notebook: Check out our development board](https://trello.com/bayatgames)
 
