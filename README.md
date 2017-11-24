@@ -34,7 +34,7 @@ Follow our news and updates, We recommend email for requesting Support.
 
 [Medium Publication](https://medium.com/bayat-games)
 
-[Telegram Channel](https://t.me/BayatGamesOfficial)
+[Telegram Channel](https://t.me/BayatGamesChannel)
 
 [Slack Team](https://bayatgames.slack.com)
 
