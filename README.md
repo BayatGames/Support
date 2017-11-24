@@ -26,6 +26,8 @@ Join our communityies to get support and feedback from our Commnity.
 
 [Join our Google Hangout](https://hangouts.google.com/group/iKG3yZqOS9eZRSSo2)
 
+[Join our Telegram Group](https://t.me/joinchat/Fs19FRGR5QLPrgpb0_7hGQ)
+
 ## Follow our News
 
 Follow our news and updates, We recommend email for requesting Support.
