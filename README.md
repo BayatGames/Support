@@ -6,6 +6,10 @@ Welcome to [Bayat Games](https://www.assetstore.unity3d.com/en/#!/search/page=1/
 
 Here we provide support for our products on GitHub and Asset Store, you can contact us via the email or any other way you like. We recommend email for requesting Support.
 
+## Notice
+
+Delays in response is because of **Time Locations** and some **special cases**, so accept our apologies for inconveniences.
+
 ## Submit an Issue
 
 Easily [file an issue here](https://github.com/BayatGames/Support/issues/new), but make sure the issue does not exists.
