@@ -10,6 +10,8 @@ Here we provide support for our products on GitHub and Asset Store, you can cont
 
 Delays in response is because of **Time Locations** and some **special cases**, so accept our apologies for inconveniences.
 
+For faster replies please [Contact us via Email](mailto:hasanbayat1393@gmail.com).
+
 ## Submit an Issue
 
 Easily [file an issue here](https://github.com/BayatGames/Support/issues/new), but make sure the issue does not exists.
