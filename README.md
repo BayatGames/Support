@@ -30,7 +30,7 @@ Join our Community to get support and feedback:
 
 ## Follow our News
 
-Follow our news and updates, We recommend email for requesting Support.
+Follow our news and updates, We recommend email for requesting Support:
 
 - [:rocket: Patreon](https://www.patreon.com/BayatGames)
 - [:notebook: Check out our development board](https://trello.com/bayatgames)
