@@ -20,71 +20,42 @@ Easily [file an issue here](https://github.com/BayatGames/Support/issues/new), b
 
 Join our communityies to get support and feedback from our Commnity.
 
-[Join our Discord Server](https://discord.gg/HWMqD7T)
-
-[Join our Slack Team](https://publicslack.com/slacks/bayatgames/invites/new)
-
-[Join our Gitter Channel](https://gitter.im/BayatGames)
-
-[Join our Google Group](https://groups.google.com/forum/#!forum/bayatgames)
-
-[Join our Facebook Group](https://www.facebook.com/groups/bayatgames/)
-
-[Join our Google Hangout](https://hangouts.google.com/group/iKG3yZqOS9eZRSSo2)
-
-[Join our Telegram Group](https://t.me/joinchat/Fs19FRGR5QLPrgpb0_7hGQ)
+- [Join our Discord Server](https://discord.gg/HWMqD7T)
+- [Join our Slack Team](https://publicslack.com/slacks/bayatgames/invites/new)
+- [Join our Gitter Channel](https://gitter.im/BayatGames)
+- [Join our Google Group](https://groups.google.com/forum/#!forum/bayatgames)
+- [Join our Facebook Group](https://www.facebook.com/groups/bayatgames/)
+- [Join our Google Hangout](https://hangouts.google.com/group/iKG3yZqOS9eZRSSo2)
+- [Join our Telegram Group](https://t.me/joinchat/Fs19FRGR5QLPrgpb0_7hGQ)
 
 ## Follow our News
 
 Follow our news and updates, We recommend email for requesting Support.
 
-[:rocket: Patreon](https://www.patreon.com/BayatGames)
-
-[:notebook: Check out our development board](https://trello.com/bayatgames)
-
-[Medium Publication](https://medium.com/bayat-games)
-
-[Telegram Channel](https://t.me/BayatGamesChannel)
-
-[Slack Team](https://bayatgames.slack.com)
-
-[Gitter Channel](https://gitter.im/BayatGames)
-
-[Twitter (Bayat Games)](https://twitter.com/BayatGames)
-
-[Twitter (Hasan Bayat)](https://twitter.com/EmpireWorld1393)
-
-[Google Group](https://groups.google.com/forum/#!forum/bayatgames)
-
-[Google+ Community](https://plus.google.com/communities/108974587311747022650)
-
-[Google Chat](https://hangouts.google.com/group/6bqlVL54C7avYPUs2)
-
-[Facebook Page](https://www.facebook.com/BayatGames)
-
-[Facebook Group](https://www.facebook.com/groups/bayatgames/)
-
-[Instagram](https://www.instagram.com/gamesbayat/)
-
-[Twitch.tv](https://www.twitch.tv/bayatgames)
-
-[Tumblr](https://bayatgames.tumblr.com)
-
-[Discord](https://discordapp.com/channels/307041709701988352/307041709701988352)
-
-[YouTube](https://www.youtube.com/channel/UCDLJbvqDKJyBKU2E8TMEQpQ)
-
-[Reddit](https://www.reddit.com/r/bayatgames)
-
-[Itch.io](https://bayat.itch.io/)
-
-[LinkedIn Company Page](https://www.linkedin.com/company/18202318/)
-
-[Pinterest](https://www.pinterest.com/BayatGames/)
-
-[Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:26641)
-
-[:e-mail: Email us (hasanbayat1393@gmail.com)](mailto:hasanbayat1393@gmail.com)
+- [:rocket: Patreon](https://www.patreon.com/BayatGames)
+- [:notebook: Check out our development board](https://trello.com/bayatgames)
+- [Medium Publication](https://medium.com/bayat-games)
+- [Telegram Channel](https://t.me/BayatGamesChannel)
+- [Slack Team](https://bayatgames.slack.com)
+- [Gitter Channel](https://gitter.im/BayatGames)
+- [Twitter (Bayat Games)](https://twitter.com/BayatGames)
+- [Twitter (Hasan Bayat)](https://twitter.com/EmpireWorld1393)
+- [Google Group](https://groups.google.com/forum/#!forum/bayatgames)
+- [Google+ Community](https://plus.google.com/communities/108974587311747022650)
+- [Google Chat](https://hangouts.google.com/group/6bqlVL54C7avYPUs2)
+- [Facebook Page](https://www.facebook.com/BayatGames)
+- [Facebook Group](https://www.facebook.com/groups/bayatgames/)
+- [Instagram](https://www.instagram.com/gamesbayat/)
+- [Twitch.tv](https://www.twitch.tv/bayatgames)
+- [Tumblr](https://bayatgames.tumblr.com)
+- [Discord](https://discordapp.com/channels/307041709701988352/307041709701988352)
+- [YouTube](https://www.youtube.com/channel/UCDLJbvqDKJyBKU2E8TMEQpQ)
+- [Reddit](https://www.reddit.com/r/bayatgames)
+- [Itch.io](https://bayat.itch.io/)
+- [LinkedIn Company Page](https://www.linkedin.com/company/18202318/)
+- [Pinterest](https://www.pinterest.com/BayatGames/)
+- [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:26641)
+- [:e-mail: Email us (hasanbayat1393@gmail.com)](mailto:hasanbayat1393@gmail.com)
 
 ## License
 
