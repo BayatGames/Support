@@ -18,7 +18,7 @@ Easily [file an issue here](https://github.com/BayatGames/Support/issues/new), b
 
 ## Join Us
 
-Join our communityies to get support and feedback from our Commnity.
+Join our Community to get support and feedback:
 
 - [Join our Discord Server](https://discord.gg/HWMqD7T)
 - [Join our Slack Team](https://publicslack.com/slacks/bayatgames/invites/new)
