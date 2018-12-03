@@ -36,6 +36,7 @@ Follow our news and updates, We recommend email for requesting Support:
 - [:notebook: Check out our development board](https://trello.com/bayatgames)
 - [Medium Publication](https://medium.com/bayat-games)
 - [Telegram Channel](https://t.me/BayatGamesChannel)
+- [Telegram Group](https://t.me/joinchat/Fs19FRGR5QLPrgpb0_7hGQ)
 - [Slack Team](https://bayatgames.slack.com)
 - [Gitter Channel](https://gitter.im/BayatGames)
 - [Twitter (Bayat Games)](https://twitter.com/BayatGames)
