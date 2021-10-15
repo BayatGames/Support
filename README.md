@@ -1,7 +1,5 @@
 # Welcome
 
-Hi happy visitor (or awesome customer).
-
 Welcome to [Bayat Games](https://assetstore.unity.com/publishers/26641) Customer Support.
 
 Here we provide support for our products on GitHub and Asset Store, you can contact us via the email or any other way you like. We recommend email for requesting Support.
